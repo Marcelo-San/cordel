@@ -64,8 +64,38 @@ header a:hover, footer a:hover
 
 */
 
-footer
+/* Não vai ter imagem na seção. */
+section.normal
 {
+    background-color: white;
+    color: black;
+}
+
+/*
+Configuração que serve tanto para as seções classificadas como "normal", quanto as classificadas como "imagem". Para fazer o efeito paralax.
+*/
+section
+{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    line-height: 2em;
+    padding-left: 30px;
+}
+
+section.imagem
+{
+    background-color: rgb(85, 94, 95);
+    color: white;
+}
+
+section.imagem > p
+{
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.25);
+}
+
+footer
+{   
     background-color: black;
     color: white;
     text-align: center;
