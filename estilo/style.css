@@ -1,1 +1,73 @@
 @charset "UTF-8";
+
+/* Configurações gerais para resetar as margens de todos os elementos. */
+* {
+    margin: 0px;
+    padding: 0px;    
+}
+
+/* Configurações comuns para estes dois elementos. */
+html, body
+{
+    min-height: 100vh;
+    background-color: darkgray;
+}
+
+header
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+header > h1
+{
+    padding-top: 50px;
+    font-variant: small-caps; /* Mantém todas as letras da fonte utilizada em letra de fôrma. As primeiras letras, de cada palavra, ficarão maiores. */
+}
+
+header > p
+{
+    padding-bottom: 50px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+/* Se você for configurar o link dentro da tag "header", pode colocar assim: */
+/*
+
+header a, footer a 
+{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+*/
+
+a:hover
+{
+    color: yellow;
+}
+/* Se você for configurar o link dentro da tag "header", pode colocar assim: */
+/*
+
+header a:hover, footer a:hover 
+{
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+*/
+
+footer
+{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
