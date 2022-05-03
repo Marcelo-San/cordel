@@ -8,8 +8,8 @@
 
 
 
-OBS: Projeto criado pelo prof. Gustavo Guanabara, no novo curso de HTML5 e CSS3 do Curso em Vídeo. 
+OBS: Projeto criado pelo prof. Gustavo Guanabara no novo curso de HTML5 e CSS3 do Curso em Vídeo. 
 
 💡 Para saber mais sobre o curso, acesse: 
 
-:link: https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n
+:link: [YouTube: Curso de HTML5 e CSS3 do Curso em Vídeo](https://youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n).
