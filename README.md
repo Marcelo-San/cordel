@@ -14,5 +14,4 @@ OBS: Projeto criado pelo prof. Gustavo Guanabara no novo curso de HTML5 e CSS3 d
 
 <br/>
 
-:camera_flash: Autora da foto da borboleta: [@lulusoficial_](https://www.instagram.com/lulusoficial_/)
-
+:camera_flash: Autora da foto da borboleta: [@atelielulus](https://www.instagram.com/atelielulus/)
